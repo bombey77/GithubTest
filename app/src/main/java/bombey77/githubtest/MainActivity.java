@@ -19,4 +19,8 @@ public class MainActivity extends AppCompatActivity {
 
         int iii = i + ii;
     }
+
+    private void setLinks() {
+        int a = 12;
+    }
 }
